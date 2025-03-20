@@ -6,7 +6,6 @@
 
 using namespace std;
 
-// Разложение
 void choleskyDecomposition(const vector<vector<double>>& A, vector<vector<double>>& L) {
     int n = A.size();
     for (int i = 0; i < n; i++) {
@@ -24,7 +23,6 @@ void choleskyDecomposition(const vector<vector<double>>& A, vector<vector<double
     }
 }
 
-// Ly = b
 void forwardSubstitution(const vector<vector<double>>& L, const vector<double>& b, vector<double>& y) {
     int n = L.size();
     for (int i = 0; i < n; i++) {
@@ -36,7 +34,6 @@ void forwardSubstitution(const vector<vector<double>>& L, const vector<double>& 
     }
 }
 
-// L транс x = y
 void backwardSubstitution(const vector<vector<double>>& L, const vector<double>& y, vector<double>& x) {
     int n = L.size();
     for (int i = n - 1; i >= 0; i--) {
