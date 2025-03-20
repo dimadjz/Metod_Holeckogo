@@ -1,0 +1,12 @@
+# ninja log v5
+764	938	7641662007137675	Metod_Holeckogo.exe	ddb63553cf0d67c3
+17	563	7641664742109984	CMakeFiles/Metod_Holeckogo.dir/main.cpp.obj	7a90c3ac7d90ca7e
+3	559	7641664742109984	CMakeFiles/Metod_Holeckogo.dir/check_without_file.cpp.obj	ff4ce2216fa417c8
+1	168	7641669851988155	build.ninja	37e92d621001d271
+3	151	7641669853696456	Metod_Holeckogo.exe	ddb63553cf0d67c3
+3	658	7641670752931025	CMakeFiles/Metod_Holeckogo.dir/main.cpp.obj	7a90c3ac7d90ca7e
+659	825	7641670754599794	Metod_Holeckogo.exe	ddb63553cf0d67c3
+2	635	7641683465394966	CMakeFiles/Metod_Holeckogo.dir/main.cpp.obj	7a90c3ac7d90ca7e
+635	807	7641683467123194	Metod_Holeckogo.exe	ddb63553cf0d67c3
+2	671	7641686388960280	CMakeFiles/Metod_Holeckogo.dir/main.cpp.obj	7a90c3ac7d90ca7e
+672	838	7641686390575902	Metod_Holeckogo.exe	ddb63553cf0d67c3
